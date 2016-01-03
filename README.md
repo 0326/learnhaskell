@@ -1,3 +1,6 @@
+[学习WIKI](https://github.com/0326/learnhaskell/wiki/0)
+
+
 # How to learn Haskell
 
 This is a recommended path for learning Haskell based on experience helping others.
